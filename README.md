@@ -128,8 +128,10 @@ and should not replace professional medical evaluation.
 ------------------------------------------------------------
 
 👨‍💻 Author
-
-Akshay  
+Guru
+Deepak
+Akshay
+Sujay
 AI / ML Hackathon Project  
 
 ------------------------------------------------------------
